@@ -1,4 +1,9 @@
 <h1><em> Olá! Eu sou o Marcos Antonio Silva dos Santos</em></h1>
+
+<ul>
+  <li>👋 Hoje trabalho com front-end</li>
+
+</ul>
 - 👋 Hoje trabalho com front-end
 - 📝 Estudando Java e PHP
 - 😊 Pronome: Ele/Dele
