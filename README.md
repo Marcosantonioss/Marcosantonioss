@@ -32,7 +32,7 @@ Atualmente focado em <strong>Java</strong> e <strong>PHP</strong>, mas também m
 
 ### 🔗 Vamos nos conectar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marco-antônio-silva-santos)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marco-antônio-silva-santos-008989176/)
 - 🌐 [Portfólio](https://seu-portfolio-aqui.com)
 - 📧 Email: seuemail@exemplo.com
 
