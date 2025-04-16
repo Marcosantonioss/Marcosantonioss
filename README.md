@@ -1,13 +1,11 @@
 <h1><em> Olá! Eu sou o Marcos Antonio Silva dos Santos</em></h1>
 
 <ul>
-  <li style="list-style: circle;">👋 Hoje trabalho com front-end</li>
-  <li list-style: circle>📝 Estudando Java e PHP</li>
-  <li list-style: circle>😊 Pronome: Ele/Dele</li>
+  <li>👋 Hoje trabalho com front-end</li>
+  <li>📝 Estudando Java e PHP</li>
+  <li>😊 Pronome: Ele/Dele</li>
 </ul>
-- 👋 Hoje trabalho com front-end
-- 📝 Estudando Java e PHP
-- 😊 Pronome: Ele/Dele
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
