@@ -1,28 +1,42 @@
-<h1><em> Olá! Eu sou o Marcos Antonio Silva dos Santos</em></h1>
+<h1 align="center">Fala aí! Eu sou o Marcos Antônio 👋</h1>
 
-<ul>
-  <li>👋 Hoje trabalho com front-end</li>
-  <li>📝 Estudando Java e PHP</li>
-  <li>😊 Pronome: Ele/Dele</li>
-</ul>
- 
- 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<p align="center">
+Estudante de tecnologia e desenvolvedor apaixonado por aprender, codar e criar soluções úteis.  
+Atualmente focado em <strong>Java</strong> e <strong>PHP</strong>, mas também mandando bem no front-end!
+</p>
+
+---
+
+### 🧠 Estudando atualmente
+- Java ☕
+- PHP 🐘
+
+### 🛠️ Tecnologias que uso
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=fff)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Marcosantonioss&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosantonioss&layout=compact&theme=tokyonight" />
 </div>
 
-##
-<div> 
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-<!---
-Marcosantonioss/Marcosantonioss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🔗 Vamos nos conectar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)
+- 🌐 [Portfólio](https://seu-portfolio-aqui.com)
+- 📧 Email: seuemail@exemplo.com
+
+---
+
+🧩 *"A prática leva à perfeição — e eu pratico codar todos os dias."*
+
