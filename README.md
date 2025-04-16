@@ -2,7 +2,8 @@
 
 <ul>
   <li>👋 Hoje trabalho com front-end</li>
-
+  <li>📝 Estudando Java e PHP</li>
+  <li>😊 Pronome: Ele/Dele</li>
 </ul>
 - 👋 Hoje trabalho com front-end
 - 📝 Estudando Java e PHP
