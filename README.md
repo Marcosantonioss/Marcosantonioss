@@ -1,7 +1,7 @@
 <h1><em> Olá! Eu sou o Marcos Antonio Silva dos Santos</em></h1>
 
 <ul>
-  <li list-style: circle>👋 Hoje trabalho com front-end</li>
+  <li style="list-style: circle;">👋 Hoje trabalho com front-end</li>
   <li list-style: circle>📝 Estudando Java e PHP</li>
   <li list-style: circle>😊 Pronome: Ele/Dele</li>
 </ul>
